@@ -1,0 +1,21 @@
+{
+  "short_name": "CozyHome",
+  "name": "",
+  "icons": [
+    {
+      "src": "assets/icon/home.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "assets/icon/home.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffd699",
+  "background_color": "#ffd699"
+}
